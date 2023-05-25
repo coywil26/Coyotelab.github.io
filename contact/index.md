@@ -13,7 +13,7 @@ group: contact
 
   <h4>Lab Area </h4>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  1700 4th Street, Genentech Hall Room S476<br>
+  1700 4th Street, Byers Hall Room 404<br>
   San Francisco, CA 94158<br>
   tel: tbd
 
@@ -25,7 +25,7 @@ group: contact
   Assistant Professor<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
-  1700 4th Street, Byers Hall Room S472B<br>
+  1700 4th Street, Byers Hall Room 402B<br>
   San Francisco, CA 94158<br>
   email: willow.coyote-maestas (at) ucsf.edu <br>
   tel: tbd
@@ -34,11 +34,11 @@ group: contact
 
 <div class="col-md-4">
 
-  <h4> TBD</h4>
-  Faculty Support Analyst to Dr. Willow Coyote-Maestas and others<br>
+  <h4> Steve Ha</h4>
+  Faculty Support Analyst to Dr. James Fraser and others<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  email: TBD (at) ucsf.edu<br>
-  tel: TBD <br>
+  email: Steve.Ha (at) ucsf.edu<br>
+  tel: 415 502-8084 <br>
 
 </div>
 
