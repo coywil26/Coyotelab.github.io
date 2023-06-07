@@ -25,7 +25,7 @@ group: contact
   Assistant Professor<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
-  1700 4th Street, Byers Hall Room 402B<br>
+  1700 4th Street, Byers Hall Room 403E<br>
   San Francisco, CA 94158<br>
   email: willow.coyote-maestas (at) ucsf.edu <br>
   tel: tbd
