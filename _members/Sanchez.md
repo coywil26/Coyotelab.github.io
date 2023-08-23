@@ -1,7 +1,7 @@
 ---
 name: Rosa Sanchez
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
-startdate: [2023-08-01]
+startdate: [2023-07-31]
 enddate: #[YYYY-MM-DD]
 image: /static/img/members/Sanchez.png #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/bajaj_pb.jpg #365 x 365 pixels, 72 dpi
