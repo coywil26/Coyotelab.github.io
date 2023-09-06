@@ -5,7 +5,7 @@ enddate: [2023-08-01]
 #image:
 #altimage:
 position: "Summer Student"
-subsequent: Undergraduate at Stanford University
+subsequent: Undergraduate @ Stanford University
 pronouns: "he/him/his"
 email: "henrygat@nmsu.edu"
 scholar:
