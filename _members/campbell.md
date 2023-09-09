@@ -7,13 +7,13 @@ enddate: [2023-08-01]
 position: "Summer Student"
 subsequent: Undergraduate @ Stanford University
 pronouns: "he/him/his"
-email: "henrygat@nmsu.edu"
+email: 
 scholar:
 website:
 UCSF:
-twitter: biochemhen
-linkedin: "henry-gatica-gutierrez-020672225"
+twitter:
+linkedin:
 github:
-orcid: "0000-0001-9182-0829"
+orcid:
 description:
 ---
