@@ -2,7 +2,7 @@
 name: Catherine H. Shin
 startdate: [2023-08-01]
 enddate: []
-image: /static/img/members/CatherineShin.JPG
+image: /static/img/members/CatherineShin.jpg
 #altimage: /static/img/members/Pellegrino_pb.jpg
 position: "Graduate Student, [CCB](https://ccb.ucsf.edu)"
 #subsequent: update once you become an alumnus
