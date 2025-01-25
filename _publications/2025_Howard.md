@@ -1,10 +1,10 @@
 ---
 title: "Molecular basis of proton-sensing by G protein-coupled receptors"
-authors: "**Matthew K. Howard**&#42;, Nicholas Hoppe&#42;, Xi-Ping Huang, **Christian B. Macdonald**, Eshan Mehrota, **Patrick Rockefeller Grimes**, Adam Zahm, **Donovan D. Trinidad**, Justin English, **Willow Coyote-Maestas†**, Aashish Manglik†"
-journal: "Biorxiv"
-pub_date: "2024-04-18"
+authors: "**Matthew K. Howard**&#42;, Nicholas Hoppe&#42;, Xi-Ping Huang, Darko Mitrovic,  Christian B. Billesbølle, **Christian B. Macdonald**, Eshan Mehrota, **Patrick Rockefeller Grimes**, Adam Zahm, **Donovan D. Trinidad**, Lucie Delemotte, Justin English, **Willow Coyote-Maestas†**, Aashish Manglik†
+journal: "Cell"
+pub_date: "2025-01-02"
 image: "/static/img/pub/2024_howard.png"
-#pmid: "38528119"
+pmid: "39753132"
 #pmcid: "PMC9951526"
 biorxiv_version: "2024.04.17.590000v1"
 #pdf: #"http://cdn.fraserlab.com/publications/2023_Macdonald.pdf"
